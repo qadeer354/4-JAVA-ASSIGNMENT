@@ -1,0 +1,17 @@
+.container-1 {
+    color: black !important;
+    text-align: center !important;
+    width: fit-content !important;
+    border: 1px solid black !important;
+    border-radius: 10px !important;
+    margin-top: 10% !important;
+}
+
+button {
+    margin: 5px !important;
+    border-radius: 9px !important;
+}
+
+.container-2 {
+    margin-top: 10px !important;
+} 

@@ -1,0 +1,25 @@
+body{
+    /* padding: 15px auto !important; */
+    text-align: center !important;
+    background-color: #6B6B6B !important ;
+}
+#mainbody{
+    margin:auto !important;
+    padding-top: 5% !important;
+}
+img{
+    width: 300px !important;
+    height: 500px !important;
+}
+
+.btn-group{
+    padding-top: 15px !important;
+}
+.alert{
+    width: fit-content !important;
+    
+    margin: 10px auto !important;
+}
+#divone{    
+    margin-top: -1% !important;
+}
